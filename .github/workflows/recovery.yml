@@ -18,7 +18,7 @@ env:
   DT_LINK: https://github.com/twrpdtgen/android_device_xreal_X4000
   DT_PATH: device/xreal/X4000
   TARGET: recoveryimage
-  TZ: Americas/newyork
+  TZ: Europe/Istanbul
 
 jobs:
   build:
